@@ -1,6 +1,6 @@
 # Assignment 1: Virtual Machine Setup & Socket Programming
 
-### Due Friday September 24 at 11:59 pm EST
+### Due Friday Feb 10, 2023 at 11:59 pm EST
 
 Welcome to COS 461: Computer Networks! Through this and the following
 assignments, you will gain hands-on experience with real-world network
@@ -444,7 +444,7 @@ on Piazza or see an instructor during office hours.
 ### Submission and grading
 
 Submit the assignment by uploading your modified client and server files to CS
-TigerFile here: [Programming Assignment 1](https://tigerfile.cs.princeton.edu/COS461_F2021/Programming_Assignment_1).
+TigerFile here: [Programming Assignment 1](https://tigerfile.cs.princeton.edu/COS461_S2023/Programming_Assignment_1).
 
 We will grade your assignments by running the `test_client_server.sh` script
 and additional tests with large messages, multiple simultaneous clients, etc.
