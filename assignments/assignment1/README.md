@@ -1,6 +1,6 @@
 # Assignment 1: Virtual Machine Setup & Socket Programming
 
-### Due Friday September 24 at 11:59 pm EST
+### Due Friday Feb 10, 2023 at 11:59 pm EST
 
 Welcome to COS 461: Computer Networks! Through this and the following
 assignments, you will gain hands-on experience with real-world network
