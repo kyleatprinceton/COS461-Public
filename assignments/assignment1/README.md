@@ -56,7 +56,7 @@ VirtualBox is a VM provider (hypervisor).
 
 **macOS & Windows:** You need to install VirtualBox using the correct download
 link for your computer here: https://www.virtualbox.org/wiki/Downloads. The
-links are under the heading "VirtualBox 6.x.x platform packages."
+links are under the heading "VirtualBox 7.x.x platform packages."
 
 **For macOS Big Sur:** After installation, you need to go to 
 `System Preferences  > Security & Privacy` 
@@ -64,7 +64,7 @@ and allow system software updates from Oracle (there might be a prompt about
 this during installation). Then, restart your mac.
 
 **Windows only:** Use all the default installation settings, but you can
-uncheck the "Start Oracle VirtualBox 6.x.x after installation" checkbox.
+uncheck the "Start Oracle VirtualBox 7.x.x after installation" checkbox.
 
 **Linux:** Run the command `sudo apt-get install virtualbox`. If `virtualbox` is 
 not already added to your package repository (if apt-get prompts "virtualbox has 
@@ -119,7 +119,7 @@ Use default options and uncheck "Launch Xming" at the end.
 Open your terminal (use the one mentioned in step 3 if using Windows) and `cd`
 to wherever you want to keep files for this course on your computer.  
 
-Run `git clone https://github.com/PrincetonUniversity/COS461-Public` to
+Run `git clone https://github.com/kyleatprinceton/COS461-Public` to
 download the course files from GitHub.
 
 `cd COS461-Public/assignments` to enter the course assignment directory.
