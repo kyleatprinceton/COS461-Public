@@ -35,7 +35,9 @@ highly recommended to use a separate terminal window and ssh into the VM. To
 do so, open up a terminal on your Mac and type the command 
 `ssh -p2222 ubuntu@localhost` and then enter the password `ubuntu` to login. 
 In the meantime, leave the UTM window in the background, closing it will shut 
-down your VM.
+down your VM. Note: the port is 2222 because we assume a port mapping from 2222 to 22. 
+If you are unable to ssh into the vm, check the port mapping in UTM settings and use 
+whatever port is set up to be mapped to 22. 
 
 To power off your VM, you can either run `sudo shutdown -h now` inside the VM 
 or click on the poweroff button located at the top of the UTM window. To power 
