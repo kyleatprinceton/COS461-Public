@@ -1,6 +1,6 @@
 # Assignment 3: Passive Network Measurement
 
-### Due Wednesday October 27 at 11:59 pm EST
+### Due Fri 3/24 at 11:59 pm ET
 
 This is not a group assignment. You are not allowed to copy or look at code
 from other students. However, you are welcome to discuss the assignments with
@@ -85,7 +85,7 @@ tutorials).
 ## Submission
 
 Submit your completed `Assignment3_Notebook.ipynb` file on TigerFile here: 
-[Programming Assignment 3](https://tigerfile.cs.princeton.edu/COS461_F2021/Programming_Assignment_3)
+[Programming Assignment 3](https://tigerfile.cs.princeton.edu/COS461_S2023/Programming_Assignment_3)
 
 Remember to put your name and netid in the marked location at the top of the
 file.
