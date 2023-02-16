@@ -85,7 +85,7 @@ tutorials).
 ## Submission
 
 Submit your completed `Assignment2_Notebook.ipynb` file on TigerFile here: 
-[Programming Assignment 2](https://tigerfile.cs.princeton.edu/COS461_F2021/Programming_Assignment_2).
+[Programming Assignment 2](https://tigerfile.cs.princeton.edu/COS461_S2023/Programming_Assignment_2).
 
 Remember to put your name and netid in the marked location at the top of the
 file.
