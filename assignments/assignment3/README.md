@@ -89,3 +89,11 @@ Submit your completed `Assignment3_Notebook.ipynb` file on TigerFile here:
 
 Remember to put your name and netid in the marked location at the top of the
 file.
+
+## Rubrics
+- 4 graphs - 4.5 points each 
+ - 2.5 points for right code
+ - 2 points for correct graph
+- 7 questions - 3 points each
+ - 1 point if the answer is incorrect because their graph was incorrect. But the student has correctly interpreted their wrong graph
+
