@@ -70,9 +70,9 @@ sudo modprobe tcp_probe port=5001 full=1
 sudo apt-get install -y whois
 sudo pip install ipaddress
 
-# Assignment 5
+# Assignment 4
 sudo apt-get install -y apache2-utils
-echo "export GOPATH=$(readlink -f assignment5)" >> ~/.profile
+echo "export GOPATH=$(readlink -f assignment4)" >> ~/.profile
 
 # Start in the assignments dir instead of ~/
 if ! grep -Fxq "cd $(readlink -f .)" ~/.bashrc
