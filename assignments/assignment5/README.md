@@ -89,3 +89,20 @@ Submit your completed `Assignment5_Notebook.ipynb` file on TigerFile here:
 
 Remember to put your name and netid in the marked location at the top of the
 file.
+
+## Rubric notes
+- Part A one question - 2 points
+  - 1 for code that runs
+  - 1 for correct output
+- Part B
+  - Two sets of code+output check
+    - 2.5 points each
+  - 2 subjective answer questions
+    - 2.5 points each
+- Part C - algo+graph -  6.5 points
+  - 5 for algorithm
+    - 3 for process_flow
+    - 2 for block_connection
+  - 1 for graph building
+  - 0.5 points for right shape
+- Part C - 2.5 each for the questions on Bro’s algo
