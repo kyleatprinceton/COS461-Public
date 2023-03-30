@@ -420,7 +420,7 @@ surprised if it is not noticeable.
 ## Submission & Grading
 
 You should submit your `http_proxy.go` and `http_proxy_DNS.go` files to the CS
-TigerFile here: [Programming Assignment 4](https://tigerfile.cs.princeton.edu/COS461_S2023/Programming_Assignment_4)
+TigerFile here: [Programming Assignment 4](https://tigerfile.cs.princeton.edu/COS461_S2023/Programming_Assignment_4_-_group_size_1_or_2)
 
 **Put your and your teammate's names and netids in comments at the top of both submitted files.**
 
