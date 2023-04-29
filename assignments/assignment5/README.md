@@ -99,10 +99,9 @@ file.
     - 2.5 points each
   - 2 subjective answer questions
     - 2.5 points each
-- Part C - algo+graph -  6.5 points
+- Part C - algo+graph -  5 points
   - 5 for algorithm
     - 3 for process_flow
     - 2 for block_connection
-  - 1 for graph building
-  - 0.5 points for right shape
+    - (1 for graph building code is awarded if others are wrong)
 - Part C - 2.5 each for the questions on Bro’s algo
